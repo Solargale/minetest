@@ -1,3 +1,4 @@
+Planning on replacing Irrlicht with IrrlichtBAW
 Minetest
 ========
 
